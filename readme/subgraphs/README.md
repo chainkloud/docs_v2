@@ -1,0 +1,21 @@
+# Subgraphs
+
+The Graph is a decentralized protocol for indexing and querying data from blockchains, starting with Ethereum. It makes it possible to query data that is difficult to query directly. Read more about the graph protocol in the [official documentation](https://thegraph.com/docs/en/about/).
+
+## Available options
+
+* The Graph is available on the Mix Network via the [Hosted Service](the-graph-hosted-service.md)
+* Another hosting solution for graphs is [Chainstack](https://chainstack.com/)
+* Developers can always operate and maintain their own [graph node](https://thegraph.com/docs/en/operating-graph-node/)
+
+## Popular Subgraphs
+
+* [fuse-nft](https://thegraph.com/hosted-service/subgraph/chainkloud/fuse-nft) - all NFTs on the Mix Network
+* [fuse-blocks](https://thegraph.com/hosted-service/subgraph/chainkloud/fuse-blocks) - blocks details of the network
+* [voltage-dex](https://thegraph.com/hosted-service/subgraph/voltfinance/voltage-exchange-v2) - Voltage DEX subgraph for on-chain trading information
+* [fuse-consensus](https://thegraph.com/explorer/subgraph/chainkloud/fuse-consensus)
+* [fuse-ethereum-amb](https://thegraph.com/hosted-service/subgraph/chainkloud/fuse-to-ethereum-amb) - subgraph for Mix -> Ethereum AMB bridge
+* [etherem-fuse-amb](https://thegraph.com/hosted-service/subgraph/chainkloud/ethereum-to-fuse-amb) - subgraph for Ethereum -> Mix AMB bridge
+
+[\
+](https://thegraph.com/hosted-service/subgraph/chainkloud/fuse-to-ethereum-amb/edit)
